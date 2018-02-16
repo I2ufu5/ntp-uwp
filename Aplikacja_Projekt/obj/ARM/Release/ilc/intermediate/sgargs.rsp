@@ -1,0 +1,11 @@
+/out:"C:\Users\Rufus\Downloads\Aplikacja_Projekt\Aplikacja_Projekt\Aplikacja_Projekt\obj\ARM\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\Rufus\Downloads\Aplikacja_Projekt\Aplikacja_Projekt\Aplikacja_Projekt\obj\ARM\Release\ilc\intermediate\\"
+/ref:"C:\Users\Rufus\Downloads\Aplikacja_Projekt\Aplikacja_Projekt\Aplikacja_Projekt\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\Rufus\Downloads\Aplikacja_Projekt\Aplikacja_Projekt\Aplikacja_Projekt\obj\ARM\Release\ilc\intermediate\TransformedSRWR"
+/ref:"C:\Users\Rufus\Downloads\Aplikacja_Projekt\Aplikacja_Projekt\Aplikacja_Projekt\obj\ARM\Release\ilc\in"
+/ref:"C:\Users\Rufus\Downloads\Aplikacja_Projekt\Aplikacja_Projekt\Aplikacja_Projekt\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Users\Rufus\Downloads\Aplikacja_Projekt\Aplikacja_Projekt\Aplikacja_Projekt\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Users\Rufus\.nuget\packages\microsoft.net.native.compiler\1.7.1\tools\ARM\ilc\lib\Private\\"
+/ref:"C:\Users\Rufus\Downloads\Aplikacja_Projekt\Aplikacja_Projekt\Aplikacja_Projekt\obj\ARM\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\Rufus\.nuget\packages\microsoft.net.native.compiler\1.7.1\tools\ARM\ilc\csc"
